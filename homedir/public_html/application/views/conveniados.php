@@ -49,11 +49,13 @@ $this->load->view('commons/menu');
             <form id="cadastraConveniado" method="POST">
                 <input type="text" name="cpf" onkeypress='return event.charCode >= 48 && event.charCode <= 57' placeholder="CPF do Titular" maxlength="11" required>
                 <input type="email" name="email" placeholder="E-mail" required>
+                <input type="text" name="telefone" placeholder="telefone" required>
                 <button type="submit">Cadastrar</button>
                 <div id="errocadastro"></div>
             </form>
         </div>
     </li>
+    
 </ul>
             <img src="assets/images/exam.jpg" style="max-width: 100%;padding:5px; border:1px solid #DDD;">
         </div>

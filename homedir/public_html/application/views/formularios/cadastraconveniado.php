@@ -9,6 +9,8 @@ include 'conexao.php';
 $erro = '';
 $email =  utf8_decode($_POST['email']);
 $cpf = utf8_decode($_POST['cpf']);
+$telefone = utf8_decode($_POST['telefone']);
+
 if(filter_var($_POST["email"], FILTER_VALIDATE_EMAIL)){
 $sql = "SELECT * FROM clientes WHERE cpf = '".$cpf."'";
 $result = $conn->query($sql);

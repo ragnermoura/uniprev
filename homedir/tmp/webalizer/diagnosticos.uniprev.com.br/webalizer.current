@@ -1,0 +1,377 @@
+# Webalizer V2.23-08 Incremental Data - 08/22/2020 06:58:35
+2020 8 22 6 58 35
+167 53 68 6 2 17 185273 69 50 0
+3 4 62 1 22
+2 0 1516 2 0 0
+2 2 4702 2 2 2
+3 1 3867 3 2 2
+6 4 10920 5 4 4
+4 3 7811 4 3 3
+8 4 12436 6 4 4
+6 1 6141 6 2 2
+5 1 5383 3 3 2
+65 3 54049 4 16 2
+1 0 758 1 0 0
+5 3 8569 5 3 3
+3 2 5460 3 2 2
+6 3 9327 5 3 3
+7 1 6899 4 5 2
+1 0 758 1 0 0
+1 1 2351 1 1 1
+13 13 7877 7 3 2
+4 3 7053 4 4 4
+7 2 8492 5 3 3
+6 3 9327 5 4 4
+8 2 6952 8 3 3
+4 1 4625 3 2 2
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+4 1 4625 1
+3 0 2274 0
+17 13 10909 4
+4 3 7811 3
+2 1 3109 1
+5 2 6976 3
+5 2 6976 3
+4 3 7053 4
+7 4 11678 5
+4 2 3920 1
+3 0 2274 2
+7 1 6899 5
+3 0 2274 0
+62 2 50182 15
+1 1 2351 1
+4 2 6218 2
+3 0 2274 1
+8 1 7657 3
+0 0 0 0
+4 2 6218 2
+5 3 8569 3
+4 4 9404 4
+4 3 7811 3
+4 3 7811 3
+0
+0
+0
+53
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+114
+0
+0
+0
+0
+0
+# -urls- 
+/.well-known/acme-challenge/ZEFICGHIAH-8__YKL5DG3D9CMMUXD38B
+0 1 0 64 0 0
+/.well-known/acme-challenge/Y2F8KT4SVSAIYWQ3-DQM-_MHKAIDV0D5
+0 1 0 64 0 0
+/.well-known/acme-challenge/Gze8IF-T4YLCY6IaSx5Lo3ikUuLNjB_tCodjhuAqYNo
+0 4 0 348 0 0
+/72B282CE2AF3A370C5C4DD56ECB687E4.txt
+0 1 0 53 0 0
+/
+0 42 0 98742 45 8
+/.well-known/acme-challenge/K65X0uIUIdMEgy1lKcue3wuKS2X46633ScCbmFUCnTg
+0 4 0 348 0 0
+# End Of Table - urls
+# -sites- (monthly)
+ip-104-238-116-152.ip.secureserver.net
+0 1 0 758 0 0
+-
+crawl-66-249-64-159.googlebot.com
+0 1 1 2351 1 1597300932
+/
+rate-limited-proxy-66-249-89-81.google.com
+0 2 2 4702 2 1597003729
+/
+crawl-66-249-64-141.googlebot.com
+0 1 0 758 0 0
+-
+rate-limited-proxy-66-249-91-83.google.com
+0 1 1 2351 1 1597638740
+/
+80.82.68.60
+0 1 1 2351 1 1596519143
+/
+msnbot-157-55-39-0.search.msn.com
+0 2 0 1516 0 0
+-
+msnbot-207-46-13-39.search.msn.com
+0 2 0 1516 1 1596882319
+-
+167.71.93.65
+0 1 0 758 0 0
+-
+msnbot-157-55-39-26.search.msn.com
+0 1 0 758 0 0
+-
+msnbot-207-46-13-49.search.msn.com
+0 1 0 758 1 1596779761
+/
+rate-limited-proxy-66-249-91-85.google.com
+0 1 1 2351 1 1597782772
+/
+167.172.186.32
+0 1 0 758 0 0
+-
+195-154-48-117.rev.poneytelecom.eu
+0 1 0 758 0 0
+-
+server.advancedcomputing.ca
+0 1 0 758 0 0
+-
+104.131.54.149
+0 3 0 2274 0 0
+-
+ec2-18-237-68-147.us-west-2.compute.amazonaws.com
+0 1 1 2351 1 1597211267
+/
+msnbot-207-46-13-197.search.msn.com
+0 1 1 53 0 0
+-
+142.93.122.161
+0 1 0 758 0 0
+-
+138.99.216.171
+0 3 1 3867 1 1596726773
+/
+cpanel7.linksan.com.br
+0 2 2 128 0 0
+-
+hbrsoft.org
+0 1 0 758 0 0
+-
+80.82.68.71
+0 1 1 2351 1 1596701856
+/
+rate-limited-proxy-74-125-150-15.google.com
+0 1 1 2351 1 1596756724
+/
+crawl-66-249-69-149.googlebot.com
+0 1 0 0 1 1597735412
+-
+crawl-66-249-64-129.googlebot.com
+0 1 1 2351 1 1597308243
+/
+crawl-66-249-66-31.googlebot.com
+0 1 0 758 1 1597978569
+/
+static.227.157.216.95.clients.your-server.de
+0 2 1 3109 1 1596540665
+/
+229.ip-164-132-98.eu
+0 1 0 758 0 0
+-
+msnbot-157-55-39-186.search.msn.com
+0 1 0 758 1 1598079515
+-
+rate-limited-proxy-66-249-92-31.google.com
+0 2 2 4702 2 1597959529
+/
+ec2-3-128-26-105.us-east-2.compute.amazonaws.com
+0 2 2 174 0 0
+-
+104.131.3.169
+0 2 0 1516 0 0
+-
+crawl-66-249-69-148.googlebot.com
+0 2 2 4702 2 1597850756
+/
+msnbot-207-46-13-204.search.msn.com
+0 3 0 2274 0 0
+-
+crawl-66-249-64-132.googlebot.com
+0 2 0 1516 0 0
+-
+rate-limited-proxy-66-249-92-5.google.com
+0 3 3 7053 3 1598018708
+/
+crawl-66-249-66-13.googlebot.com
+0 2 1 3109 1 1596666884
+/
+rate-limited-proxy-66-249-92-3.google.com
+0 1 1 2351 1 1597446033
+/
+msnbot-40-77-167-218.search.msn.com
+0 1 0 758 1 1598027215
+-
+msnbot-207-46-13-237.search.msn.com
+0 1 0 758 0 0
+-
+rate-limited-proxy-66-249-89-77.google.com
+0 2 2 4702 2 1597263492
+/
+8.48.204.35.bc.googleusercontent.com
+0 62 2 50182 1 1596980499
+-
+jobqueue-listener.jobqueue.netcraft.com-ue2c968dcd4a711eaa6b7976a838d6ab1u-digitalocean-2gb
+0 1 1 2351 1 1596403277
+/
+rate-limited-proxy-66-249-89-79.google.com
+0 3 3 7053 3 1597183149
+/
+hostby.web4net.org
+0 4 0 3032 0 0
+-
+crawl-66-249-66-15.googlebot.com
+0 3 1 3867 1 1596674081
+/
+ec2-18-196-96-172.eu-central-1.compute.amazonaws.com
+0 2 2 174 0 0
+-
+crawl-66-249-69-147.googlebot.com
+0 1 1 2351 1 1597740438
+/
+198.199.122.153
+0 3 0 2274 0 0
+-
+rate-limited-proxy-66-249-90-240.google.com
+0 1 1 2351 1 1597118168
+/
+outbound2.letsencrypt.org
+0 2 2 174 0 0
+-
+65.155.30.101
+0 2 2 4702 1 1597630276
+/
+31.13.191.85
+0 1 0 758 1 1597858387
+/
+crawl-66-249-64-143.googlebot.com
+0 1 0 758 1 1596442971
+/
+msnbot-157-55-39-31.search.msn.com
+0 1 0 758 0 0
+-
+e82-103-130-13s.easyspeedy.dk
+0 1 1 2351 1 1597174627
+/
+ec2-34-209-232-166.us-west-2.compute.amazonaws.com
+0 2 2 174 0 0
+-
+rate-limited-proxy-66-249-91-89.google.com
+0 1 1 2351 1 1596527529
+/
+crawl-66-249-66-2.googlebot.com
+0 1 0 758 1 1597944753
+/
+crawl-66-249-66-5.googlebot.com
+0 1 1 2351 1 1597911268
+/
+rate-limited-proxy-66-249-92-15.google.com
+0 1 1 2351 1 1596655731
+/
+rate-limited-proxy-66-249-91-91.google.com
+0 1 1 2351 1 1596596831
+/
+crawl-66-249-68-2.googlebot.com
+0 2 1 3109 1 1598078893
+/
+185.156.73.64
+0 1 1 2351 1 1596533191
+/
+45.119.212.93
+0 1 0 758 0 0
+-
+ec2-54-185-128-2.us-west-2.compute.amazonaws.com
+0 2 1 3109 1 1597942899
+/
+swe-net-ip.as51430.net
+0 4 0 3032 1 1597405320
+-
+# End Of Table - sites (monthly)
+# -sites- (daily)
+msnbot-157-55-39-186.search.msn.com
+0 1 0 758 1 1598079515
+-
+msnbot-157-55-39-31.search.msn.com
+0 1 0 758 0 0
+-
+crawl-66-249-68-2.googlebot.com
+0 2 1 3109 1 1598078893
+/
+# End Of Table - sites (daily)
+# -referrers- 
+- (Direct Request)
+0 165
+http://www.bing.com/search
+0 2
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.1 Safari/605.1.15
+0 9
+Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.92 Mobile S
+0 7
+Mozilla/5.0 (Windows NT 6.1; rv:17.0) Gecko/17.0 Firefox/17.0
+0 1
+Mozilla/5.0 (compatible; NetcraftSurveyAgent/1.0; +info@netcraft.com)
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko; compatible; BW/1.1; bit.ly/2W6Px8S) Chrome/8
+0 2
+Mozilla/5.0 (compatible; Let's Encrypt validation server; +https://www.letsencrypt.org)
+0 8
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.71 Safari/537.36
+0 2
+Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+0 13
+Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)
+0 14
+python-requests/2.24.0
+0 62
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.109 Safari/537.36
+0 1
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36
+0 10
+Googlebot-Image/1.0
+0 5
+Mozilla/5.0 (compatible; Seekport Crawler; http://seekport.com/)
+0 2
+Mozilla/5.0 (compatible; Google-Test;)
+0 20
+Cpanel-HTTP-Client/1.0
+0 2
+Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:62.0) Gecko/20100101 Firefox/62.0
+0 8
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames

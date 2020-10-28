@@ -1,0 +1,21 @@
+.container-funeraria .right img, .container-laboratorio .right img{
+    position:relative;
+    z-index: 7;
+    max-width:50%;
+    top:30px
+}
+.container-uni-casa .right img, .container-vantagens .right img{
+    position:relative; z-index: 7;
+    max-width: 500px;
+    border: 1px solid #DDD;
+    padding: 5px;
+    margin: 26px 0;
+}
+.container-funeraria .right iframe, .container-laboratorio .right iframe, .container-uni-casa .right iframe, .container-vantagens .right iframe{
+    margin-top: 24px;
+}
+@media screen and (max-width: 868px) {
+    #exames-iframe {
+        width: 300px;
+    }
+}

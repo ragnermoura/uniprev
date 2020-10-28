@@ -1,0 +1,60 @@
+--- 
+__version: '2.1'
+diagnosticos.uniprev.com.br: 
+  account_count: 0
+  accounts: {}
+
+uniprev.com.br: 
+  account_count: 12
+  accounts: 
+    administracao: 
+      disk_mtime: '1453741709'
+      diskquota: 104857600
+      diskused: 93391
+    analytics: 
+      disk_mtime: '1453741709'
+      diskquota: 262144000
+      diskused: 247637
+    contato: 
+      disk_mtime: '1453741709'
+      diskquota: 262144000
+      diskused: 11897361
+    diagnosticos: 
+      disk_mtime: '1453741709'
+      diskquota: 104857600
+      diskused: 550838
+    envia: 
+      disk_mtime: '1453741709'
+      diskquota: 104857600
+      diskused: 1714787
+    funeraria: 
+      disk_mtime: '1453741709'
+      diskquota: 262144000
+      diskused: 247659
+    news: 
+      disk_mtime: '1453741709'
+      diskquota: 262144000
+      diskused: 343546
+    rodrigo: 
+      disk_mtime: '1453741709'
+      diskquota: 838860800
+      diskused: 225370798
+    rosi: 
+      disk_mtime: '1453741709'
+      diskquota: '1073741824'
+      diskused: 0
+    salete: 
+      disk_mtime: '1453741709'
+      diskquota: 52428800
+      diskused: 297522
+    site: 
+      disk_mtime: '1453741709'
+      diskquota: 262144000
+      diskused: 247272
+    uniprev: 
+      disk_mtime: '1453741709'
+      diskquota: 524288000
+      diskused: 41361151
+  disk_mtime: '1453741709'
+  passwd_mtime: '1453741709'
+  quota_mtime: '1453741709'

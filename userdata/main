@@ -1,0 +1,9 @@
+--- 
+addon_domains: {}
+
+main_domain: uniprev.com.br
+parked_domains: []
+
+sub_domains: 
+  - diagnosticos.uniprev.com.br
+  - blog.uniprev.com.br

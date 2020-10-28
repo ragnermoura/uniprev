@@ -1,0 +1,453 @@
+head	1.30;
+access;
+symbols;
+locks
+	uniprev:1.30; strict;
+comment	@# @;
+
+
+1.30
+date	2016.09.21.11.33.21;	author uniprev;	state Exp;
+branches;
+next	1.29;
+
+1.29
+date	2016.09.21.11.27.29;	author uniprev;	state Exp;
+branches;
+next	1.28;
+
+1.28
+date	2016.09.21.11.16.18;	author uniprev;	state Exp;
+branches;
+next	1.27;
+
+1.27
+date	2016.09.20.18.16.52;	author uniprev;	state Exp;
+branches;
+next	1.26;
+
+1.26
+date	2016.09.20.18.15.35;	author uniprev;	state Exp;
+branches;
+next	1.25;
+
+1.25
+date	2016.09.20.18.13.30;	author uniprev;	state Exp;
+branches;
+next	1.24;
+
+1.24
+date	2016.09.20.18.09.39;	author uniprev;	state Exp;
+branches;
+next	1.23;
+
+1.23
+date	2016.09.16.20.17.40;	author uniprev;	state Exp;
+branches;
+next	1.22;
+
+1.22
+date	2015.10.14.14.04.27;	author uniprev;	state Exp;
+branches;
+next	1.21;
+
+1.21
+date	2015.07.07.21.16.37;	author uniprev;	state Exp;
+branches;
+next	1.20;
+
+1.20
+date	2015.07.07.21.15.57;	author uniprev;	state Exp;
+branches;
+next	1.19;
+
+1.19
+date	2015.06.18.11.51.18;	author uniprev;	state Exp;
+branches;
+next	1.18;
+
+1.18
+date	2015.06.02.17.25.27;	author uniprev;	state Exp;
+branches;
+next	1.17;
+
+1.17
+date	2015.06.02.17.21.59;	author uniprev;	state Exp;
+branches;
+next	1.16;
+
+1.16
+date	2015.06.02.17.15.35;	author uniprev;	state Exp;
+branches;
+next	1.15;
+
+1.15
+date	2013.12.05.14.07.50;	author uniprev;	state Exp;
+branches;
+next	1.14;
+
+1.14
+date	2013.06.07.17.11.42;	author uniprev;	state Exp;
+branches;
+next	1.13;
+
+1.13
+date	2013.06.07.17.04.48;	author uniprev;	state Exp;
+branches;
+next	1.12;
+
+1.12
+date	2013.03.22.17.46.25;	author uniprev;	state Exp;
+branches;
+next	1.11;
+
+1.11
+date	2013.03.22.17.44.50;	author uniprev;	state Exp;
+branches;
+next	1.10;
+
+1.10
+date	2013.03.22.17.40.06;	author uniprev;	state Exp;
+branches;
+next	1.9;
+
+1.9
+date	2012.05.07.12.52.22;	author uniprev;	state Exp;
+branches;
+next	1.8;
+
+1.8
+date	2012.02.07.18.15.27;	author uniprev;	state Exp;
+branches;
+next	1.7;
+
+1.7
+date	2011.02.09.14.14.34;	author uniprev;	state Exp;
+branches;
+next	1.6;
+
+1.6
+date	2010.11.24.16.08.49;	author uniprev;	state Exp;
+branches;
+next	1.5;
+
+1.5
+date	2010.11.19.18.14.00;	author uniprev;	state Exp;
+branches;
+next	1.4;
+
+1.4
+date	2010.05.07.17.59.44;	author uniprev;	state Exp;
+branches;
+next	1.3;
+
+1.3
+date	2010.05.07.17.59.21;	author uniprev;	state Exp;
+branches;
+next	1.2;
+
+1.2
+date	2010.05.07.17.58.03;	author uniprev;	state Exp;
+branches;
+next	1.1;
+
+1.1
+date	2010.05.07.17.57.22;	author uniprev;	state Exp;
+branches;
+next	;
+
+
+desc
+@@
+
+
+1.30
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@rodrigo:x:1022:1011::/home/uniprev/mail/uniprev.com.br/rodrigo:/usr/local/cpanel/bin/noshell
+diagnosticos:x:1022:1011::/home/uniprev/mail/uniprev.com.br/diagnosticos:/bin/bash
+envia:x:1022:1011::/home/uniprev/mail/uniprev.com.br/envia:/bin/bash
+administracao:x:788:785::/home2/uniprev/mail/uniprev.com.br/administracao:/home2/uniprev
+uniprev:x:788:785::/home2/uniprev/mail/uniprev.com.br/uniprev:/home2/uniprev
+funeraria:x:788:785::/home2/uniprev/mail/uniprev.com.br/funeraria:/home2/uniprev
+site:x:788:785::/home2/uniprev/mail/uniprev.com.br/site:/home2/uniprev
+analytics:x:788:785::/home2/uniprev/mail/uniprev.com.br/analytics:/home2/uniprev
+contato:x:788:785::/home2/uniprev/mail/uniprev.com.br/contato:/home2/uniprev
+news:x:788:785::/home2/uniprev/mail/uniprev.com.br/news:/home2/uniprev
+rosi:x:597:597::/home/uniprev/mail/uniprev.com.br/rosi:/home/uniprev
+no-reply:x:792:792::/home/uniprev/mail/uniprev.com.br/no-reply:/home/uniprev
+portoferreira:x:792:792::/home/uniprev/mail/uniprev.com.br/portoferreira:/home/uniprev
+descalvado:x:792:792::/home/uniprev/mail/uniprev.com.br/descalvado:/home/uniprev
+webmaster:x:792:792::/home/uniprev/mail/uniprev.com.br/webmaster:/home/uniprev
+pedrina:x:792:792::/home/uniprev/mail/uniprev.com.br/pedrina:/home/uniprev
+@
+
+
+1.29
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@d16 1
+@
+
+
+1.28
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@a3 1
+salete:x:788:785::/home2/uniprev/mail/uniprev.com.br/salete:/bin/bash
+@
+
+
+1.27
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@d16 1
+@
+
+
+1.26
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@a14 1
+descalvador:x:792:792::/home/uniprev/mail/uniprev.com.br/descalvador:/home/uniprev
+@
+
+
+1.25
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@d16 1
+@
+
+
+1.24
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@d15 1
+@
+
+
+1.23
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@d14 1
+@
+
+
+1.22
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@d13 1
+@
+
+
+1.21
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@d12 1
+@
+
+
+1.20
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@a1 1
+fapesp:x:1022:1011::/home/uniprev/mail/uniprev.com.br/fapesp:/usr/local/cpanel/bin/noshell
+@
+
+
+1.19
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@d12 1
+@
+
+
+1.18
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@d11 1
+@
+
+
+1.17
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@d10 1
+@
+
+
+1.16
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@d9 1
+@
+
+
+1.15
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@d8 1
+@
+
+
+1.14
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@d7 1
+@
+
+
+1.13
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@a6 1
+pestigliojr:x:788:785::/home2/uniprev/mail/uniprev.com.br/pestigliojr:/home2/uniprev
+@
+
+
+1.12
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@d7 1
+@
+
+
+1.11
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@d6 1
+@
+
+
+1.10
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@a4 1
+uniprev:x:1022:1011::/home/uniprev/mail/uniprev.com.br/uniprev:/bin/bash
+@
+
+
+1.9
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@a1 1
+pestigliojr:x:1022:1011::/home/uniprev/mail/uniprev.com.br/pestigliojr:/usr/local/cpanel/bin/noshell
+@
+
+
+1.8
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@d7 1
+@
+
+
+1.7
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@a1 1
+accacio:x:1022:1011::/home/uniprev/mail/uniprev.com.br/accacio:/usr/local/cpanel/bin/noshell
+@
+
+
+1.6
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@d7 1
+@
+
+
+1.5
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@d6 1
+@
+
+
+1.4
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@d5 1
+@
+
+
+1.3
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@d4 1
+@
+
+
+1.2
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@d3 1
+@
+
+
+1.1
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@d2 1
+@

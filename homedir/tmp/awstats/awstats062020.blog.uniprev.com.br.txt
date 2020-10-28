@@ -1,0 +1,284 @@
+AWSTATS DATA FILE 7.7 (build 20180105)
+# If you remove this file, all statistics for date 202006 will be lost/reset.
+# Last config file used to build this data file was /home/uniprev/tmp/awstats/awstats.blog.uniprev.com.br.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2015                
+POS_TIME 2694                
+POS_VISITOR 6704                
+POS_DAY 7546                
+POS_DOMAIN 3305                
+POS_LOGIN 3533                
+POS_ROBOT 3688                
+POS_WORMS 3979                
+POS_EMAILSENDER 4110                
+POS_EMAILRECEIVER 4253                
+POS_SESSION 7627                
+POS_SIDER 7773                
+POS_FILETYPES 4388                
+POS_DOWNLOADS 4539                
+POS_OS 4587                
+POS_BROWSER 4692                
+POS_SCREENSIZE 4843                
+POS_UNKNOWNREFERER 4917                
+POS_UNKNOWNREFERERBROWSER 5058                
+POS_ORIGIN 5194                
+POS_SEREFERRALS 5326                
+POS_PAGEREFS 5470                
+POS_SEARCHWORDS 5618                
+POS_KEYWORDS 5770                
+POS_MISC 2358                
+POS_ERRORS 5829                
+POS_CLUSTER 3389                
+POS_SIDER_404 5938                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20200701034853 42 10933 15025255724528
+FirstTime 20200630094447
+LastTime 20200630235400
+LastUpdate 20200702003115 42 0 41 0 0
+TotalVisits 6                   
+TotalUnique 6                   
+MonthHostsKnown 0                   
+MonthHostsUnknown 27                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+AddToFavourites 0 0 0
+FlashSupport 0 0 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+QuickTimeSupport 0 0 0
+JavascriptDisabled 0 0 0
+JavaEnabled 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+PDFSupport 0 0 0
+DirectorSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 0 0 0 0 0 0
+1 0 0 0 0 0 0
+2 0 0 0 0 0 0
+3 0 0 0 0 1 467567
+4 0 0 0 1 3 2557068
+5 0 0 0 0 0 0
+6 0 0 0 0 0 0
+7 0 0 0 0 1 2089481
+8 0 0 0 28 28 20517
+9 1 24 249246 14 22 311203
+10 0 0 0 1 3 75814
+11 0 0 0 1 1 6540
+12 0 0 0 0 1 267026
+13 0 0 0 12 16 101720
+14 2 31 343379 4 5 2102601
+15 0 0 0 12 12 13387
+16 0 0 0 2 3 2098397
+17 0 23 173175 3 3 17399
+18 0 0 0 4 6 32720
+19 0 18 161276 6 10 2239282
+20 0 0 0 0 0 0
+21 0 0 0 0 2 4178962
+22 1 13 198401 4 5 2102599
+23 2 37 387394 3 4 16510
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 1
+us 6 146 1512871
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 4
+blog 51 1020 20200630221438 0
+facebookexternalhit/ 17 17977810 20200630215004 0
+bot[\s_+:,\.\;\/\\-] 2 9554 20200630235346 1
+Googlebot/ 1 429 20200630235343 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 5
+css 74 472896 0 0
+png 10 84410 0 0
+html 1 9485 0 0
+woff2 5 275644 0 0
+js 56 670436 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 3
+win10 13 1
+ios_iphone 126 5
+Unknown 7 0
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 6
+safari13.0.5 35 2
+safari 16 0
+safari13.1.1 52 3
+safari10.0 23 0
+Unknown 7 0
+chrome74.0.3729.131 13 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 2
+cortex/1.0 20200630235423
+adreview/1.0 20200630235423
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 2
+adreview/1.0 20200630235423
+cortex/1.0 20200630235423
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 6 146
+From1 0 0
+From2 0 0
+From3 0 0
+From4 0 0
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 3
+401 1 124
+404 51 709793
+400 3 63
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 7
+/wp-content/uploads/2020/06/Captura-de-Tela-2020-06-30-a%CC%80s-09.06.17-300x200.png 1 -
+/2020/06/30/saiba-mais-sobre-o-diabetes 4 -
+/wp-content/uploads/2020/06/Captura-de-Tela-2020-06-30-a%CC%80s-08.59.59-300x200.png 1 -
+/wp-content/uploads/2020/06/Captura-de-Tela-2020-06-30-a\xcc\x80s-09.03.26-1024x697.png 12 -
+/2020/06/30/saiba-mais-sobre-o-diabetes/ 26 -
+/ 3 -
+/wp-content/uploads/2020/06/Captura-de-Tela-2020-06-30-a%CC%80s-09.03.26-1024x697.png 4 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 27
+173.252.87.15 1 14 192529 20200630145444
+173.252.127.16 1 2 77581 20200630094447
+18.207.106.133 1 13 198401 20200630224340
+173.252.87.28 1 3 26291 20200630145444
+66.220.149.19 1 8 178035 20200630235355
+66.220.149.11 1 15 128398 20200630235400
+173.252.87.25 0 1 30366 
+173.252.127.7 0 7 48732 
+66.220.149.3 0 15 113803 
+173.252.127.8 0 1 10140 
+173.252.127.27 0 1 10140 
+173.252.87.4 0 6 50093 
+173.252.87.23 0 1 10140 
+173.252.87.27 0 9 66499 
+173.252.95.20 0 1 10140 
+66.220.149.119 0 3 15425 
+173.252.87.118 0 6 25797 
+173.252.127.23 0 13 102653 
+66.220.149.29 0 3 5993 
+173.252.87.9 0 8 64995 
+173.252.95.7 0 1 10140 
+66.220.149.7 0 1 10140 
+66.220.149.35 0 6 64811 
+173.252.87.117 0 2 7366 
+173.252.87.20 0 1 7188 
+173.252.87.18 0 3 35290 
+66.220.149.26 0 2 11785 
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 1
+20200630 6 146 1512871 6
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 1
+0s-30s 6
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 5
+/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.woff2 2 151872 2 2
+/wp-content/themes/oceanwp/assets/fonts/simple-line-icons/Simple-Line-Icons.woff2 1 30064 1 1
+/ 1 9485 1 1
+/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.woff2 1 13576 1 1
+/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff2 1 80132 1 1
+END_SIDER

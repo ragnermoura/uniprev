@@ -1,0 +1,16 @@
+--- 
+documentroot: /home/uniprev/public_html/blog.uniprev.com.br
+group: uniprev
+hascgi: 1
+homedir: /home/uniprev
+ip: 172.31.18.167
+ipv6: ~
+no_cache_update: 1
+owner: root
+phpopenbasedirprotect: 1
+serveradmin: webmaster@blog.uniprev.com.br
+serveralias: www.blog.uniprev.com.br
+servername: blog.uniprev.com.br
+usecanonicalname: 'On'
+user: uniprev
+userdirprotect: ''

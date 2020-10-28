@@ -1,0 +1,6 @@
+descalvado@uniprev.com.br: contato@uniprev.com.br
+diagnosticos@uniprev.com.br: rodrigo@uniprev.com.br
+fapesp@uniprev.com.br: rodrigo@uniprev.com.br
+pestigliojr@uniprev.com.br: "|/usr/local/cpanel/bin/autorespond pestigliojr@uniprev.com.br /home/uniprev/.autorespond"
+portoferreira@uniprev.com.br: contato@uniprev.com.br
+*: :blackhole:

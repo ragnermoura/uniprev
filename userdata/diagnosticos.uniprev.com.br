@@ -1,0 +1,51 @@
+--- 
+customlog: 
+  - 
+    format: combined
+    target: /usr/local/apache/domlogs/diagnosticos.uniprev.com.br
+  - 
+    format: "\"%{%s}t %I .\\n%{%s}t %O .\""
+    target: /usr/local/apache/domlogs/diagnosticos.uniprev.com.br-bytes_log
+documentroot: /home/uniprev/public_html/diagnostico
+group: uniprev
+hascgi: 1
+homedir: /home/uniprev
+ifmodulealiasmodule: 
+  scriptalias: 
+    - 
+      path: /home/uniprev/public_html/diagnostico/cgi-bin/
+      url: /cgi-bin/
+ifmoduleincludemodule: 
+  directoryhomeuniprevpublichtmldiagnostico: 
+    ssilegacyexprparser: 
+      - 
+        value: " On"
+ifmodulelogconfigmodule: 
+  ifmodulelogiomodule: 
+    customlog: 
+      - 
+        format: "\"%{%s}t %I .\\n%{%s}t %O .\""
+        target: /usr/local/apache/domlogs/diagnosticos.uniprev.com.br-bytes_log
+ifmodulemodsuphpc: 
+  group: uniprev
+ifmoduleuserdirmodule: 
+  ifmodulempmitkc: 
+    ifmoduleruidmodule: {}
+
+ip: 172.31.18.167
+ipv6: ~
+no_cache_update: 1
+owner: root
+phpopenbasedirprotect: 1
+port: 80
+scriptalias: 
+  - 
+    path: /home/uniprev/public_html/diagnostico/cgi-bin/
+    url: /cgi-bin/
+serveradmin: webmaster@diagnosticos.uniprev.com.br
+serveralias: www.diagnosticos.uniprev.com.br
+servername: diagnosticos.uniprev.com.br
+ssl: 1
+usecanonicalname: 'On'
+user: uniprev
+userdirprotect: ''

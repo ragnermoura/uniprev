@@ -1,0 +1,630 @@
+head	1.40;
+access;
+symbols;
+locks
+	uniprev:1.40; strict;
+comment	@# @;
+
+
+1.40
+date	2016.09.21.11.33.21;	author uniprev;	state Exp;
+branches;
+next	1.39;
+
+1.39
+date	2016.09.21.11.27.29;	author uniprev;	state Exp;
+branches;
+next	1.38;
+
+1.38
+date	2016.09.21.11.27.25;	author uniprev;	state Exp;
+branches;
+next	1.37;
+
+1.37
+date	2016.09.21.11.16.18;	author uniprev;	state Exp;
+branches;
+next	1.36;
+
+1.36
+date	2016.09.21.11.16.18;	author uniprev;	state Exp;
+branches;
+next	1.35;
+
+1.35
+date	2016.09.20.18.16.52;	author uniprev;	state Exp;
+branches;
+next	1.34;
+
+1.34
+date	2016.09.20.18.15.35;	author uniprev;	state Exp;
+branches;
+next	1.33;
+
+1.33
+date	2016.09.20.18.13.30;	author uniprev;	state Exp;
+branches;
+next	1.32;
+
+1.32
+date	2016.09.20.18.09.39;	author uniprev;	state Exp;
+branches;
+next	1.31;
+
+1.31
+date	2016.09.16.20.17.40;	author uniprev;	state Exp;
+branches;
+next	1.30;
+
+1.30
+date	2016.09.16.20.17.40;	author uniprev;	state Exp;
+branches;
+next	1.29;
+
+1.29
+date	2015.10.14.14.04.27;	author uniprev;	state Exp;
+branches;
+next	1.28;
+
+1.28
+date	2015.10.14.14.04.27;	author uniprev;	state Exp;
+branches;
+next	1.27;
+
+1.27
+date	2015.07.07.21.16.37;	author uniprev;	state Exp;
+branches;
+next	1.26;
+
+1.26
+date	2015.07.07.21.15.57;	author uniprev;	state Exp;
+branches;
+next	1.25;
+
+1.25
+date	2015.06.18.11.51.18;	author uniprev;	state Exp;
+branches;
+next	1.24;
+
+1.24
+date	2015.06.02.17.25.27;	author uniprev;	state Exp;
+branches;
+next	1.23;
+
+1.23
+date	2015.06.02.17.21.59;	author uniprev;	state Exp;
+branches;
+next	1.22;
+
+1.22
+date	2015.06.02.17.15.35;	author uniprev;	state Exp;
+branches;
+next	1.21;
+
+1.21
+date	2015.06.02.17.15.35;	author uniprev;	state Exp;
+branches;
+next	1.20;
+
+1.20
+date	2013.12.05.14.07.50;	author uniprev;	state Exp;
+branches;
+next	1.19;
+
+1.19
+date	2013.06.07.17.11.42;	author uniprev;	state Exp;
+branches;
+next	1.18;
+
+1.18
+date	2013.06.07.17.04.48;	author uniprev;	state Exp;
+branches;
+next	1.17;
+
+1.17
+date	2013.03.22.17.46.25;	author uniprev;	state Exp;
+branches;
+next	1.16;
+
+1.16
+date	2013.03.22.17.44.50;	author uniprev;	state Exp;
+branches;
+next	1.15;
+
+1.15
+date	2013.03.22.17.40.06;	author uniprev;	state Exp;
+branches;
+next	1.14;
+
+1.14
+date	2013.03.22.17.40.04;	author uniprev;	state Exp;
+branches;
+next	1.13;
+
+1.13
+date	2012.05.07.12.52.22;	author uniprev;	state Exp;
+branches;
+next	1.12;
+
+1.12
+date	2012.05.07.12.52.21;	author uniprev;	state Exp;
+branches;
+next	1.11;
+
+1.11
+date	2012.02.07.18.15.27;	author uniprev;	state Exp;
+branches;
+next	1.10;
+
+1.10
+date	2012.02.07.18.15.26;	author uniprev;	state Exp;
+branches;
+next	1.9;
+
+1.9
+date	2011.02.09.14.14.34;	author uniprev;	state Exp;
+branches;
+next	1.8;
+
+1.8
+date	2011.02.09.14.14.34;	author uniprev;	state Exp;
+branches;
+next	1.7;
+
+1.7
+date	2010.11.24.16.08.49;	author uniprev;	state Exp;
+branches;
+next	1.6;
+
+1.6
+date	2010.11.19.18.14.00;	author uniprev;	state Exp;
+branches;
+next	1.5;
+
+1.5
+date	2010.11.19.18.14.00;	author uniprev;	state Exp;
+branches;
+next	1.4;
+
+1.4
+date	2010.05.07.17.59.44;	author uniprev;	state Exp;
+branches;
+next	1.3;
+
+1.3
+date	2010.05.07.17.59.21;	author uniprev;	state Exp;
+branches;
+next	1.2;
+
+1.2
+date	2010.05.07.17.58.03;	author uniprev;	state Exp;
+branches;
+next	1.1;
+
+1.1
+date	2010.05.07.17.57.22;	author uniprev;	state Exp;
+branches;
+next	;
+
+
+desc
+@@
+
+
+1.40
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@rodrigo:$6$CfreoJTA7SY92MCI$FjCOM8GUH8truoTlsAcn7atlfREGGjAY1Tvn4NooQ6cMrS.nAhdrTZCwa4JU1FSCLKGjvwj03RSrCULpftvO5/:14736::::::
+diagnosticos:$1$dlsHt5uB$FEP/cD9Fi4qq4XBPchxFA1:14932::::::
+envia:$1$dM_uqTma$JaDWda4qRDw3TMtrJoxBy.:14937::::::
+administracao:$6$.lR/jL6s9H4incYu$NQtC6/ftP4jX53PRAYRreniWVbywXbwbiF5Oj7cMbDPybsIQs1q8fiWwEQKQeVklltAieWeiOpGsLsG3ttC2i0:15786::::::
+uniprev:$6$E7Oko2Tbdwq7kkaV$f3g7k29llvtXiQGxL.BII/WOS.eIYlMc3qw.yeIFrlh9f7EgM/q4V34Un.rN71OWuBsxPlkV45lc7rDF8yEbG/:16044::::::
+funeraria:$1$ixkPMld2$uh61ugP8Zrk4CoQTKfyeI.:16588::::::
+site:$1$4WujWUiH$b7NlAE.ZckaN1Nu/rgwL2.:16588::::::
+analytics:$1$.rl4/Uwd$O2RK2Rl2q.me4ms77woqt/:16588::::::
+contato:$6$91qSVcDP/SKF3Do3$14E.PKrmHsA8z1Wd/O3/nLAUYQaAxfMJIdPaalHdeoLINbblyjs/4HpovxJw3nNjJ07Q1axy/U6856/eRUnMk0:16604::::::
+news:$1$lL0hLP1L$r304w.t0o.rXAlzHcBzOY1:16623::::::
+rosi:$6$CC0l15cbirZmwo6Q$EHor1DiKY.RS.L4k41kpwRaPM3N6fReiffgHYhhC8Rch.BRHSgBsrgiAqyJd2nrVwzu2z3qgDVeiV67mUGhsz0:16722::::::
+no-reply:$6$oFSkrtWbuMAXAVIX$s.NYXhUpdRWmoeryYJIyriVAUCa31oC8qEdZZOQ.Zq9j9k/Uzn3hiF5pywhc388j9mWZa7DjAxPp9YwiFfSSb.:17060::::::
+portoferreira:$6$PFN4HCj6GCQiLIRG$Lkt2fetzlGgcNMRFcADjoTyrvDXHW6zN0ECGpv8r8btGgx.Ba22L0H6PIyYwQFGmAN8UxJlJ8R914KidB7ale.:17064::::::
+descalvado:$6$6XHgvWOwHORlcEtv$V9Z7WF5CYoUPc4RHk0S9HZEQgxViKzdXakR.AHiXQ6otnCcBvq5mdbwds5Od0OSPx18wIk.Xw880NMHlcnO1D0:17064::::::
+webmaster:$6$05NoMMzU2iPS9os3$Z4iKpwijHrrQCWt/m/tHsJhPzFnqmFuPtPI2u31Ne1qVjR8/DFmo/Qo.IclRnFs6rIFrBS.5G/V2M8BBT4ZsW.:17065::::::
+pedrina:$6$AOr2VAkcpbcM/zf8$2H0fZUU8l0qmidT2zVfs/slQMpojjRAjs2OqKlzp4fcNIcpQmfoLLNUvVPHLCMxBdbfYre.56x1XvCeWAz8Wi1:17065::::::
+@
+
+
+1.39
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@d16 1
+@
+
+
+1.38
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@a3 1
+salete:$1$l4/yPEXL$53KmkHy8v5RZQUcyRQgp10:15467::::::
+@
+
+
+1.37
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@d10 1
+a10 1
+contato:$1$iITyiPku$EUWjC05Efm.F5h10p19jr0:16604::::::
+@
+
+
+1.36
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@d16 1
+@
+
+
+1.35
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@d14 2
+a15 2
+portoferreira:$6$e0BFJGRwaSCK/fO.$Gpm.gU50XrOQaKfLi4a7FoSUrTgpPZVoxg2ZnuNAzQDisWdDTQgZp33JK96p3gHW2ajWdQR3LCz25k7iKI..O.:17064::::::
+descalvado:$6$kWPQD2I9OB0w1Moi$Z4xVAQE.4BY3skt.43x9qDLSCaliXTBLE0R3TxHVd9hOYsLQZVCSVnfGcXMv4Dca4fdxEtfqDz9a5mPUSjFbR1:17064::::::
+@
+
+
+1.34
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@a14 1
+descalvador:$6$4NICCmi5mei9OPf4$ar3d/Z7sLiZhRXJgm9zXad5i3QKfHQR9hQ3FuL4XXK3lp6HxlMhOTaC2dnRd4PuxEJyqfqcaGpDvYmh.MzfBB1:17064::::::
+@
+
+
+1.33
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@d16 1
+@
+
+
+1.32
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@d15 1
+@
+
+
+1.31
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@d14 1
+@
+
+
+1.30
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@d13 1
+@
+
+
+1.29
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@d1 1
+a1 1
+rodrigo:$1$TT9THyup$Jb9K.NBWoL8IMztDa6/X71:14736::::::
+d5 2
+a6 2
+administracao:$1$/VhFOAxM$Hp16Sil2aCXMYNEbktvQy0:15786::::::
+uniprev:$1$QBcAWAhY$kuVHhaj2LYaAD10Myducb0:16044::::::
+@
+
+
+1.28
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@d12 1
+@
+
+
+1.27
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@d11 1
+a11 1
+news:$1$9stSwbG5$93bjRfwsW56dS9WsxlTOS.:16623::::::
+@
+
+
+1.26
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@a1 1
+fapesp:$1$d_k_hOBs$tsCv1QnqeV85KleRUU11B0:14736::::::
+@
+
+
+1.25
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@d12 1
+@
+
+
+1.24
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@d11 1
+@
+
+
+1.23
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@d10 1
+@
+
+
+1.22
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@d9 1
+@
+
+
+1.21
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@d8 1
+@
+
+
+1.20
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@d1 1
+a1 1
+rodrigo:$1$sKwq85EY$UoxPag4bysHpI/EqcV.hK/:14736::::::
+d5 3
+a7 3
+salete:$1$nIvJgUU1$AJCX9Dnh2XtWDYHpIW7Ra.:15467::::::
+administracao:$1$U7kg17i3$Qgr//cztUCor.hapq5e5d/:15786::::::
+uniprev:$1$fjMJZpCg$mlJJz66y1lfhc6ggCBhK/1:16044::::::
+@
+
+
+1.19
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@d7 1
+@
+
+
+1.18
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@a6 1
+pestigliojr:$1$.25.TfUH$nqgF4iurecIsN3GE01HLH.:15863::::::
+@
+
+
+1.17
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@d7 1
+@
+
+
+1.16
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@d6 1
+@
+
+
+1.15
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@a4 1
+uniprev:$1$vLobU6h.$MOybWS3IGzCaUuLZ8ARk9.:15014::::::
+@
+
+
+1.14
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@a1 1
+pestigliojr:$1$osdtHkG4$3RChaIkqsyEI5RGqPtQA91:14736::::::
+@
+
+
+1.13
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@d6 2
+a7 2
+uniprev:$1$BaRAqvoT$szMNcUBHyzzPDJ4Mr.FVw.:15014::::::
+salete:$1$FBX7MMz7$78C4agKkPZx8zyZykSUoW.:15467::::::
+@
+
+
+1.12
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@d7 1
+@
+
+
+1.11
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@d1 1
+a1 1
+rodrigo:$1$3uhdqx1Z$7SRjvrp9fg9rBk1vlEJWQ/:14736::::::
+@
+
+
+1.10
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@a1 1
+accacio:$1$D4DJrYJR$rA4PKI0VE7RncGyy7fKD6/:14736::::::
+@
+
+
+1.9
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@d1 2
+a2 2
+rodrigo:$1$NkXV44xA$eMVJbpHga/UwbFlP8YYo4.:14736::::::
+accacio:$1$4s9BMqzy$aNc1AD94ymclvbIp2cWcA/:14736::::::
+d7 1
+a7 1
+uniprev:$1$vyAg5nIE$YpjuASm8PJ8jjR89wFyWG0:15014::::::
+@
+
+
+1.8
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@d7 1
+@
+
+
+1.7
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@d5 1
+a5 1
+diagnosticos:$1$MgAceLGt$2kndEMcERVkylXZLt5jX90:14932::::::
+@
+
+
+1.6
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@d6 1
+@
+
+
+1.5
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@d5 1
+@
+
+
+1.4
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@d1 3
+a3 3
+rodrigo:$1$ovxBpcbM$ahoSW6.wWd9SqW7xtSCzz1:14736::::::
+accacio:$1$rU5KIR81$sD5Y2pcQv5Guzp9Ttm4Ii/:14736::::::
+pestigliojr:$1$rBGHo2hl$ZhQoYXBqh7t4LcJiwRemr1:14736::::::
+@
+
+
+1.3
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@d4 1
+@
+
+
+1.2
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@d3 1
+@
+
+
+1.1
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@d2 1
+@

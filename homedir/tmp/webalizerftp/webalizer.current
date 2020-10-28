@@ -1,0 +1,132 @@
+# Webalizer V2.23-08 Incremental Data - 06/19/2020 09:29:15
+2020 6 19 9 29 15
+22 22 1 5 0 0 87809 0 0 1
+1 3 12 18 19
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+17 17 55280 1 0 0
+5 5 32529 1 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+2 2 13084 0
+3 3 19445 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+5 5 15660 0
+12 12 39620 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0
+0
+0
+22
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/home/uniprev/public_html/application/views/AJAX/planoseservicos.php
+0 2 0 50 0 0
+/home/uniprev/public_html/assets/scripts/planoseservicos.min.js
+0 2 0 1488 0 0
+/home/uniprev/public_html/application/controllers/Planos.php
+0 3 0 3498 0 0
+/home/uniprev/public_html/application/views/adesao/adesao.php
+0 12 0 75312 0 0
+/home/uniprev/public_html/application/views/planos.php
+0 3 0 7461 0 0
+# End Of Table - urls
+# -sites- (monthly)
+201.33.248.54
+0 22 22 87809 0 0
+-
+# End Of Table - sites (monthly)
+# -sites- (daily)
+201.33.248.54
+0 5 5 32529 0 0
+-
+# End Of Table - sites (daily)
+# -referrers- 
+# End Of Table - referrers
+# -agents- 
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+arkus@uniprev.com.br
+0 22 22 87809 1 0
+# End Of Table - usernames

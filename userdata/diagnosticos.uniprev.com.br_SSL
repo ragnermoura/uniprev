@@ -1,0 +1,18 @@
+--- 
+documentroot: /home/uniprev/public_html/diagnostico
+group: uniprev
+hascgi: 1
+homedir: /home/uniprev
+ip: 172.31.18.167
+ipv6: ~
+owner: root
+phpopenbasedirprotect: ~
+port: 443
+secruleengineoff: ~
+serveradmin: webmaster@diagnosticos.uniprev.com.br
+serveralias: www.diagnosticos.uniprev.com.br
+servername: diagnosticos.uniprev.com.br
+ssl: 1
+usecanonicalname: 'Off'
+user: uniprev
+userdirprotect: ''

@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+OpenIDE-Module: org.nbphpcouncil.modules.php.ci/0
+OpenIDE-Module-Implementation-Version: 0
+OpenIDE-Module-Layer: org/nbphpcouncil/modules/php/ci/resources/layer.xml
+OpenIDE-Module-Localizing-Bundle: org/nbphpcouncil/modules/php/ci/Bundle.properties

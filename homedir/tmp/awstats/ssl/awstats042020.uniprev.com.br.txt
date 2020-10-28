@@ -1,0 +1,297 @@
+AWSTATS DATA FILE 7.7 (build 20180105)
+# If you remove this file, all statistics for date 202004 will be lost/reset.
+# Last config file used to build this data file was /home/uniprev/tmp/awstats/ssl/awstats.uniprev.com.br.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2014                
+POS_TIME 2707                
+POS_VISITOR 3470                
+POS_DAY 3967                
+POS_DOMAIN 4336                
+POS_LOGIN 4609                
+POS_ROBOT 4764                
+POS_WORMS 5099                
+POS_EMAILSENDER 5230                
+POS_EMAILRECEIVER 5373                
+POS_SESSION 5449                
+POS_SIDER 5596                
+POS_FILETYPES 5767                
+POS_DOWNLOADS 5918                
+POS_OS 5988                
+POS_BROWSER 6123                
+POS_SCREENSIZE 6344                
+POS_UNKNOWNREFERER 6418                
+POS_UNKNOWNREFERERBROWSER 6649                
+POS_ORIGIN 6790                
+POS_SEREFERRALS 6922                
+POS_PAGEREFS 7107                
+POS_SEARCHWORDS 7255                
+POS_KEYWORDS 7407                
+POS_MISC 2371                
+POS_ERRORS 7466                
+POS_CLUSTER 4465                
+POS_SIDER_404 7579                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20200501042918 40694 8081415 9808115742183
+FirstTime 20200401074146
+LastTime 20200424230436
+LastUpdate 20200629230014 40694 0 22674 18019 0
+TotalVisits 10                  
+TotalUnique 7                   
+MonthHostsKnown 0                   
+MonthHostsUnknown 13                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+DirectorSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+QuickTimeSupport 0 0 0
+FlashSupport 0 0 0
+TotalMisc 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+PDFSupport 0 0 0
+AddToFavourites 0 0 0
+RealPlayerSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 0 0 0 2 3 1331
+1 2 7 153265 6 6 1302
+2 1 1 0 9 9 2286
+3 1 1 0 7 10 1519
+4 0 0 0 5 8 1085
+5 0 0 0 8 13 1337
+6 0 0 0 9 12 1155
+7 2 2 52733 7 11 2416
+8 0 0 0 8 10 2293
+9 0 0 0 4 7 40801
+10 1 1 56864 4 4 651
+11 0 0 0 11 16 2170
+12 0 2 23561 8 8 1085
+13 0 1 19046 5 6 1085
+14 0 0 0 6 10 1302
+15 0 0 0 4 6 1765
+16 1 1 40367 2 5 991
+17 0 0 0 7 9 1302
+18 0 1 26634 4 6 868
+19 0 0 0 3 3 486
+20 0 0 0 7 8 1982
+21 0 0 0 5 5 41018
+22 1 1 56864 5 7 1085
+23 1 1 0 13 17 3718
+END_TIME
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 13
+138.246.253.15 3 3 0 20200424230436
+186.220.196.90 2 2 113728 20200417103755
+189.0.202.192 1 1 13333 20200413010609
+170.130.187.22 1 1 40367 20200407163741
+165.227.104.54 1 1 40367 20200404071533
+138.246.253.5 1 1 0 20200405032819
+51.15.242.22 1 1 12366 20200401074146
+89.108.107.181 0 1 1114 
+187.64.156.137 0 1 26634 
+179.190.220.200 0 4 138818 
+177.130.54.100 0 1 19046 
+191.33.202.120 0 1 19046 
+191.34.198.13 0 1 4515 
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 12
+20200401 1 1 12366 1
+20200404 1 1 40367 1
+20200405 1 1 0 1
+20200406 0 1 19046 0
+20200407 2 2 40367 2
+20200413 1 1 13333 1
+20200415 2 2 56864 2
+20200417 1 1 56864 1
+20200424 1 1 0 1
+20200425 0 1 1114 0
+20200427 0 5 165452 0
+20200428 0 2 23561 0
+END_DAY
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 5
+de 4 4 0
+br 3 11 335120
+us 2 2 80734
+gb 1 1 12366
+ru 0 1 1114
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 6
+bingbot/ 22 0 20200429053824 22
+Googlebot/ 10 0 20200430182722 10
+AhrefsBot/ 4 0 20200430134124 4
+unknown 4 0 20200426092652 4
+MJ12bot/ 2 0 20200419203713 2
+bot[\s_+:,\.\;\/\\-] 2 80734 20200406214324 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Session range - Number of visits
+BEGIN_SESSION 1
+0s-30s 10
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 2
+/ 9 206828 9 9
+/institucional/funeraria 1 13333 1 1
+END_SIDER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 5
+Unknown 1 13333 0 0
+png 6 100424 0 0
+txt 1 1114 0 0
+jpg 2 107635 0 0
+html 9 206828 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 1
+/license.txt 1 0 1114
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 6
+win2003 1 1
+win10 8 2
+linuxandroid 1 0
+win7 5 4
+linux 2 1
+Unknown 2 2
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 9
+firefox62.0 1 0
+chrome78.0.3904.108 1 1
+chrome80.0.3987.162 1 0
+chrome81.0.4044.122 7 0
+msie6.0 1 1
+chrome40.0.2214.85 4 4
+mozilla 1 1
+chrome57.0.2987.133 2 2
+Unknown 1 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 2
+https://gdnplus.com:Gather_Analyze_Provide. 20200407163741
+Mozilla/5.0_(compatible;_NetcraftSurveyAgent/1.0;__info@netcraft.com) 20200404071533
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 1
+https://gdnplus.com:Gather_Analyze_Provide. 20200407163741
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 10 11
+From1 0 0
+From2 0 8
+From3 0 0
+From4 0 0
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 2
+www_google_com 0 4
+www_google_com_br 0 4
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 3
+302 131 26257
+404 14 7798
+401 10 244
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 12
+/new/license.txt 1 -
+/new1/license.txt 1 -
+/site/license.txt 1 -
+/old/license.txt 1 -
+/www/license.txt 1 -
+/tmp/license.txt 1 -
+/apple-app-site-association 2 -
+/1/license.txt 1 -
+/xmlrpc.php 1 -
+/.well-known/apple-app-site-association 2 -
+/test/license.txt 1 -
+/temp/ 1 -
+END_SIDER_404

@@ -1,0 +1,169 @@
+# Webalizer V2.23-08 Incremental Data - 08/22/2020 19:41:58
+2020 8 22 19 41 58
+24 24 10 1 1 9 42364 24 19 0
+1 1 2 1 22
+2 2 4704 2 2 2
+1 1 2352 1 1 1
+0 0 0 0 0 0
+0 0 0 0 0 0
+2 2 4712 2 2 2
+2 2 0 1 2 1
+0 0 0 0 0 0
+0 0 0 0 0 0
+2 2 4708 2 2 2
+2 2 4708 1 2 1
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+2 2 4708 1 2 1
+0 0 0 0 0 0
+4 4 7056 2 4 3
+3 3 4708 2 3 2
+0 0 0 0 0 0
+2 2 4708 1 2 2
+1 1 0 1 1 1
+1 1 0 1 1 1
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+1 1 2352 1
+0 0 0 0
+3 3 7056 3
+0 0 0 0
+2 2 4712 2
+1 1 2356 1
+2 2 4708 2
+0 0 0 0
+2 2 4708 2
+0 0 0 0
+0 0 0 0
+1 1 0 1
+0 0 0 0
+2 2 4708 2
+1 1 0 1
+3 3 7060 3
+0 0 0 0
+0 0 0 0
+0 0 0 0
+1 1 0 1
+2 2 0 2
+1 1 2352 1
+0 0 0 0
+2 2 2352 2
+0
+0
+0
+24
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/
+0 24 3603221861241534510 42364 19 9
+# End Of Table - urls
+# -sites- (monthly)
+216-242-15-51.instances.scw.cloud
+0 1 1 2356 1 1596603890
+/
+198-114-158-51.instances.scw.cloud
+0 1 1 2352 1 1596318393
+/
+sylvie.xellessrite.nl
+0 1 1 2356 1 1596954148
+/
+brugge.informatik.uni-bonn.de
+0 4 4 9416 2 1597480655
+/
+179.43.169.182
+0 3 3 7056 2 1597676518
+/
+emailer1-103.thinins.net
+0 4 4 9416 3 1597896119
+/
+22-242-15-51.instances.scw.cloud
+0 1 1 2356 1 1596603181
+/
+planetlab15.net.in.tum.de
+0 6 6 0 5 1598125318
+/
+sharon.firediaryad.nl
+0 1 1 2352 1 1596956298
+/
+148-192-15-51.instances.scw.cloud
+0 2 2 4704 2 1596329045
+/
+# End Of Table - sites (monthly)
+# -sites- (daily)
+planetlab15.net.in.tum.de
+0 1 1 0 1 1598125318
+/
+# End Of Table - sites (daily)
+# -referrers- 
+- (Direct Request)
+0 24
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (compatible; NetcraftSurveyAgent/1.0; +info@netcraft.com)
+0 2
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
+0 5
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:58.0) Gecko/20100101 Firefox/58.0
+0 1
+Mozilla/5.0 (X11; Linux i686; rv:10.0) Gecko/20100101 Firefox/10.0
+0 3
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36
+0 4
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.85 Safari/537.36
+0 6
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/604.5.6 (KHTML, like Gecko) Version/11.0.3 Safari/604.5.6
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36 Edge/16.1
+0 1
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36
+0 1
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames

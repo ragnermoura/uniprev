@@ -1,0 +1,18 @@
+--- 
+documentroot: /home/uniprev/public_html
+group: uniprev
+hascgi: 0
+homedir: /home/uniprev
+ip: 172.31.18.167
+ipv6: ~
+owner: root
+phpopenbasedirprotect: ~
+port: 443
+secruleengineoff: ~
+serveradmin: webmaster@uniprev.com.br
+serveralias: mail.uniprev.com.br www.uniprev.com.br
+servername: uniprev.com.br
+ssl: 1
+usecanonicalname: 'Off'
+user: uniprev
+userdirprotect: ''

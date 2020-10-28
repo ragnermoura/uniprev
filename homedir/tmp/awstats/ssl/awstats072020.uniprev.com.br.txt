@@ -1,0 +1,302 @@
+AWSTATS DATA FILE 7.7 (build 20180105)
+# If you remove this file, all statistics for date 202007 will be lost/reset.
+# Last config file used to build this data file was /home/uniprev/tmp/awstats/ssl/awstats.uniprev.com.br.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2014                
+POS_TIME 2672                
+POS_VISITOR 6800                
+POS_DAY 7366                
+POS_DOMAIN 3270                
+POS_LOGIN 3531                
+POS_ROBOT 3686                
+POS_WORMS 4043                
+POS_EMAILSENDER 4174                
+POS_EMAILRECEIVER 4317                
+POS_SESSION 7735                
+POS_SIDER 7881                
+POS_FILETYPES 4452                
+POS_DOWNLOADS 4580                
+POS_OS 4628                
+POS_BROWSER 4770                
+POS_SCREENSIZE 5037                
+POS_UNKNOWNREFERER 5111                
+POS_UNKNOWNREFERERBROWSER 5198                
+POS_ORIGIN 5280                
+POS_SEREFERRALS 5411                
+POS_PAGEREFS 5597                
+POS_SEARCHWORDS 5791                
+POS_KEYWORDS 5943                
+POS_MISC 2336                
+POS_ERRORS 6002                
+POS_CLUSTER 3387                
+POS_SIDER_404 6126                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20200801032355 1 0 9925798173487
+FirstTime 0
+LastTime 20200727193132
+LastUpdate 20200801223422 1 0 0 0 0
+TotalVisits 4                   
+TotalUnique 3                   
+MonthHostsKnown 0                   
+MonthHostsUnknown 18                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+AddToFavourites 0 0 0
+RealPlayerSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 0 1 19046 1 4 286
+1 2 3 29394 6 10 1466
+2 0 0 0 5 6 1410
+3 0 0 0 2 3 568
+4 0 0 0 6 11 1696
+5 0 0 0 5 5 564
+6 0 0 0 6 9 1696
+7 0 1 4515 7 9 1974
+8 0 0 0 6 7 1696
+9 1 1 0 16 19 6709
+10 0 1 17166 7 9 4215
+11 0 0 0 6 6 1696
+12 0 0 0 2 4 564
+13 0 2 68124 5 5 3191
+14 0 2 9391 7 7 1470
+15 0 0 0 3 8 28587
+16 0 1 17166 5 10 1414
+17 0 3 39231 9 11 2554
+18 0 2 36212 4 4 889
+19 1 3 72254 3 3 846
+20 0 0 0 8 10 4501
+21 0 0 0 25 25 22518
+22 0 1 50958 2 3 564
+23 0 1 26634 3 5 854
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 4
+de 2 2 0
+us 1 4 97518
+fr 1 1 37922
+br 0 15 254651
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 7
+bingbot/ 25 7569 20200727165357 22
+Googlebot/ 13 0 20200730170318 13
+unknown 3 0 20200728012544 3
+link 1 0 20200715045139 1
+no_user_agent 1 15562 20200722211207 0
+MJ12bot/ 1 0 20200718065832 1
+AhrefsBot/ 1 0 20200723225613 1
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 4
+jpg 3 106792 0 0
+php 2 50150 0 0
+png 15 233149 0 0
+html 2 0 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 7
+linux 3 1
+win7 2 2
+win10 9 1
+linuxandroid 3 0
+win8.1 1 0
+win8 1 0
+macosx 3 0
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 10
+chrome83.0.4103.116 8 0
+opera68.0.3618.173 1 0
+firefox62.0 1 1
+chrome79.0.3945.136 1 0
+chrome46.0.2490.80 1 1
+chrome48.0.2564.116 2 0
+msie7.0 1 0
+chrome84.0.4147.105 1 0
+chrome84.0.4147.89 4 0
+chrome40.0.2214.85 2 2
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 0
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 0
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 3 4
+From1 0 0
+From2 0 17
+From3 1 1
+From4 0 0
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 2
+www_google_com_br 0 2
+www_google_com 0 15
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 1
+http://cpanel.uniprev.com.br/wp-login.php 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 4
+401 6 243
+404 10 5570
+206 3 27733
+302 129 35251
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 10
+/wp-config.php.original 1 uniprev.com.br
+/wp-admin/admin-ajax.php 1 uniprev.com.br
+/wp-config.php.backup 1 uniprev.com.br
+/wp-config.php_orig 1 uniprev.com.br
+/wp-config.php.orig 1 uniprev.com.br
+/wp-config.bak 1 uniprev.com.br
+/wp-config.php.disabled 1 uniprev.com.br
+/wp-login.php 1 -
+/wp-config.php-original 1 uniprev.com.br
+/wp-config.php.bak 1 uniprev.com.br
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 18
+138.246.253.15 2 2 0 20200724092707
+157.230.104.185 1 1 12228 20200706011042
+176.31.105.112 1 1 37922 20200727193132
+201.69.199.25 0 1 17166 
+168.181.245.53 0 1 17166 
+177.139.221.30 0 1 19046 
+179.192.117.33 0 1 17166 
+131.100.204.162 0 1 50958 
+200.53.199.93 0 1 17166 
+189.68.170.181 0 1 4515 
+177.87.6.18 0 1 26634 
+189.113.55.37 0 2 34716 
+170.244.74.18 0 1 17166 
+189.100.68.55 0 2 34332 
+170.82.161.78 0 1 50958 
+200.77.182.117 0 1 19046 
+189.78.210.22 0 2 9391 
+177.9.243.63 0 1 4515 
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 15
+20200701 0 2 9391 0
+20200706 1 1 12228 1
+20200712 0 1 17166 0
+20200714 0 1 26634 0
+20200715 1 2 17166 1
+20200716 0 1 4515 0
+20200717 0 1 17166 0
+20200720 0 3 51498 0
+20200721 0 2 34716 0
+20200723 0 1 19046 0
+20200724 1 2 19046 1
+20200725 0 1 50958 0
+20200727 1 1 37922 1
+20200728 0 1 4515 0
+20200729 0 2 68124 0
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 1
+0s-30s 4
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 2
+/ 2 0 2 2
+/wp-login.php 2 50150 2 2
+END_SIDER

@@ -1,0 +1,377 @@
+AWSTATS DATA FILE 7.7 (build 20180105)
+# If you remove this file, all statistics for date 202006 will be lost/reset.
+# Last config file used to build this data file was /home/uniprev/tmp/awstats/awstats.uniprev.com.br.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2010                
+POS_TIME 2685                
+POS_VISITOR 7528                
+POS_DAY 9818                
+POS_DOMAIN 3391                
+POS_LOGIN 3696                
+POS_ROBOT 3851                
+POS_WORMS 4256                
+POS_EMAILSENDER 4387                
+POS_EMAILRECEIVER 4530                
+POS_SESSION 9931                
+POS_SIDER 10119               
+POS_FILETYPES 4665                
+POS_DOWNLOADS 4973                
+POS_OS 5021                
+POS_BROWSER 5204                
+POS_SCREENSIZE 5719                
+POS_UNKNOWNREFERER 5793                
+POS_UNKNOWNREFERERBROWSER 5917                
+POS_ORIGIN 5999                
+POS_SEREFERRALS 6139                
+POS_PAGEREFS 6335                
+POS_SEARCHWORDS 6600                
+POS_KEYWORDS 6752                
+POS_MISC 2348                
+POS_ERRORS 6811                
+POS_CLUSTER 3552                
+POS_SIDER_404 6922                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20200701013948 3 431 13544603782808
+FirstTime 20200629215434
+LastTime 20200630224647
+LastUpdate 20200702003115 3 0 2 0 0
+TotalVisits 60                  
+TotalUnique 52                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 53                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+TotalMisc 0 0 0
+JavaEnabled 0 0 0
+FlashSupport 0 0 0
+RealPlayerSupport 0 0 0
+QuickTimeSupport 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 25 0
+JavascriptDisabled 0 0 0
+DirectorSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 2 33 2712185 1 2 99959
+1 3 35 1182039 0 1 99678
+2 0 0 0 0 0 0
+3 0 0 0 0 0 0
+4 0 0 0 2 2 570
+5 0 0 0 1 1 16234
+6 6 36 830936 1 1 281
+7 0 0 0 2 2 7952
+8 3 31 1067263 1 2 99959
+9 1 1 3976 1 3 1415
+10 10 114 5313011 4 6 204058
+11 21 264 15003443 6 43 3311377
+12 22 144 10018356 4 6 200488
+13 6 9 1609901 6 7 24621
+14 21 183 8247488 8 15 302318
+15 3 3 11928 2 2 566
+16 11 131 9005214 4 5 100810
+17 2 30 1068064 0 2 100808
+18 19 171 10470347 5 7 200765
+19 3 30 1041657 2 3 103935
+20 2 2 7952 1 3 281
+21 6 67 5220857 6 7 111270
+22 9 59 3695346 5 8 158788
+23 17 117 5301356 2 4 203613
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 6
+br 133 1289 73851005
+us 26 87 3840771
+in 4 49 1399406
+ar 2 33 2712185
+de 1 1 3976
+hu 1 1 3976
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 7
+crawl 33 2712185 20200630112845 0
+facebookexternalhit/ 7 30340 20200630210644 0
+DotBot/ 4 88075 20200630132404 1
+Googlebot/ 2 3851 20200630204012 1
+Applebot/ 1 0 20200630090627 1
+(firefox/)([0-9]\.|[0-1][0]\.) 1 3976 20200630232031 0
+Googlebot\-Image/ 1 0 20200630204012 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 13
+gif 6 27089 0 0
+ttf 2 158168 0 0
+woff 3 184184 0 0
+css 506 12837882 0 0
+xml 6 93372 0 0
+eot 2 82172 0 0
+php 1 15562 0 0
+woff2 40 2254368 0 0
+js 386 16473827 0 0
+Unknown 105 458654 0 0
+jpg 218 33798435 0 0
+html 8 30808 0 0
+png 177 15396798 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 9
+win8.1 4 4
+Unknown 4 4
+ios_iphone 242 25
+macosx 35 4
+win10 443 52
+linux 18 0
+win7 261 30
+win8 4 4
+linuxandroid 449 44
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 23
+chrome67.0.3396.79 1 1
+safari 114 16
+chrome83.0.4103.116 369 40
+chrome83.0.4103.106 310 33
+netscape5.0 4 4
+mozilla 18 0
+safari13.1.1 33 2
+msie11.0 117 12
+firefox33.0 2 2
+chrome64.0.3282.167 1 1
+chrome80.0.3987.149 33 2
+chrome83.0.4103.101 33 2
+safari13.1 35 3
+safari13.0.5 33 2
+msie7.0 4 4
+chrome83.0.4103.83 1 1
+firefox77.0 194 18
+safari9.0 30 2
+safari12.1.2 30 2
+chrome79.0.3945.136 20 2
+chrome74.0.3729.131 18 6
+chrome81.0.4044.138 52 4
+chrome63.0.3239.132 8 8
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 1
+Mozilla/5.0_zgrab/0.x 20200630210427
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 0
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 46 58
+From1 2 2
+From2 33 33
+From3 11 11
+From4 75 1356
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 3
+www_google_com 28 28
+www_google_com_br 3 3
+bing 2 2
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 3
+http://www.descalvadoagora.com.br/index.php 7 7
+http://www.descalvadoagora.com.br 3 3
+https://52.20.108.219:2087 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 3
+404 7 5618
+500 4 1604
+302 43 12147
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 5
+/funeraria/pdf/Laudo-M%C3%A9dico-de-Amputa%C3%A7%C3%A3o-de-Membro.pdf 1 -
+/funeraria/pdf/Autoriza%C3%A7%C3%A3o-crema%C3%A7%C3%A3o-Ossos-Morte-Violenta.pdf 1 -
+/ads.txt 2 -
+/funeraria/index.php/2-geral/5-translado 1 -
+/conveniados/contato/index/Descalvado 2 http://uniprev.com.br/conveniados/lista
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 53
+189.108.14.26 21 183 8247488 20200630144715
+200.100.189.220 13 68 3901950 20200629233557
+132.255.219.252 11 53 3330194 20200630185855
+164.90.180.108 8 8 124496 20200630125153
+132.255.217.81 7 8 130507 20200630163033
+132.255.219.254 5 33 1080388 20200630134909
+189.90.39.27 5 36 1241720 20200630184635
+191.8.172.247 5 56 3224729 20200630112129
+150.249.214.250 4 4 15904 20200630063950
+192.35.168.195 4 4 15904 20200630210427
+177.84.63.3 4 36 868113 20200630115513
+132.255.218.243 3 34 2716161 20200630215147
+186.193.180.117 3 34 2716161 20200630162039
+187.121.218.50 3 30 1041657 20200630194407
+18.207.106.133 3 18 470579 20200630224340
+189.96.208.95 3 35 1182039 20200630014823
+179.240.162.105 3 31 1072172 20200630162638
+177.79.58.91 3 32 1027991 20200630124758
+3.231.166.73 3 18 470579 20200630224647
+179.99.147.230 3 6 1574669 20200630133640
+201.17.210.187 2 33 2712185 20200630183602
+186.193.183.103 2 30 1068064 20200630104759
+45.170.25.123 2 17 411367 20200629230107
+186.193.183.216 2 30 1068064 20200630110402
+179.232.129.212 2 17 411367 20200630063848
+132.255.218.251 1 3 83371 20200629221810
+132.255.219.255 1 28 956636 20200630083039
+132.255.218.245 1 31 2496744 20200630162946
+132.255.218.242 2 33 2712185 20200630122521
+191.181.56.67 1 31 2496744 20200629215434
+177.79.64.126 1 1 4108 20200630125614
+186.193.180.169 2 30 1068064 20200630103411
+199.127.56.236 2 33 2712185 20200630183517
+186.193.177.142 2 30 1068064 20200630182624
+189.36.133.15 0 15 403665 
+132.255.219.244 2 30 1086448 20200630112906
+179.100.16.56 2 33 2712185 20200630165906
+187.40.29.191 2 30 1068064 20200630174933
+91.232.97.226 1 1 3976 20200630103111
+191.223.113.21 2 33 2712185 20200630110551
+179.110.190.52 1 1 3976 20200630205905
+192.241.248.195 1 1 15562 20200630133611
+200.115.104.11 2 33 2712185 20200630114246
+177.33.143.35 2 20 2670817 20200629224843
+45.171.252.164 2 32 988039 20200629230625
+179.113.49.23 2 33 2712185 20200630113032
+187.66.184.20 2 33 2712185 20200630003452
+186.209.70.208 2 20 2633769 20200630120115
+179.242.169.201 2 33 2712185 20200630102153
+80.249.161.132 1 1 3976 20200630200328
+177.79.62.8 1 3 209621 20200630124817
+132.255.218.254 2 33 2712185 20200630182647
+34.78.137.185 1 1 15562 20200630135532
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 2
+20200629 21 171 10552288 6
+20200630 146 1289 71259031 54
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 5
+2mn-5mn 2
+0s-30s 50
+5mn-15mn 2
+30s-2mn 4
+30mn-1h 2
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 27
+/home/inicio 51 237534 38 17
+/assets/fonts/fontawesome-webfont.woff2 31 2224560 0 21
+/exames 23 94484 13 9
+/assets/font/uniprev.woff2 9 29808 0 2
+/contato.html 8 30808 4 4
+/planos 7 27440 1 1
+/conveniados/lista 5 20290 0 0
+/conveniados 5 20205 1 0
+/institucional/laboratorio 4 16040 1 1
+/servicos 3 12930 0 0
+/adesao 2 7794 0 1
+/contato/index/Descalvado 2 7702 0 1
+/contato/index/PortoFerreira 2 7672 0 1
+/assets/fonts/fontawesome-webfont.woff 2 180288 0 1
+/assets/font/uniprev.ttf 1 5804 0 0
+/home/inicio/wordpress/wp-includes/wlwmanifest.xml 1 15562 0 0
+/assets/font/uniprev.eot 1 5968 0 0
+/home/inicio/wp/wp-includes/wlwmanifest.xml 1 15562 0 0
+/assets/fonts/fontawesome-webfont.eot 1 76204 0 0
+/assets/font/uniprev.woff 1 3896 0 0
+/exames/orientacoes 1 6563 1 0
+/assets/fonts/fontawesome-webfont.ttf 1 152364 0 0
+/home/inicio/cms/wp-includes/wlwmanifest.xml 1 15562 0 1
+/home/inicio/site/wp-includes/wlwmanifest.xml 1 15562 0 0
+/home/inicio/blog/wp-includes/wlwmanifest.xml 1 15562 0 0
+/home/inicio/wp-includes/wlwmanifest.xml 1 15562 1 0
+/home/inicio/xmlrpc.php 1 15562 0 0
+END_SIDER

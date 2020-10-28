@@ -1,0 +1,5 @@
+.my.cnf=/home/uniprev/.my.cnf
+boleto.php=/home/uniprev/public_html/application/views/adesao/boleto.php
+blog.uniprev.com.br=/home/uniprev/blog.uniprev.com.br
+wordpress=/home/uniprev/public_html/blog.uniprev.com.br/wordpress
+wordpress-5.3.2-pt_BR.zip=/home/uniprev/public_html/blog.uniprev.com.br/wordpress-5.3.2-pt_BR.zip
